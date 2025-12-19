@@ -44,3 +44,16 @@ Dans cet exemple d'implémentation, nous allons implémenter un système de fich
 <br/>
 <img src="captures/Test1.png">
 </ol>
+
+<h3>Cas d'utilisation</h3>
+<ul>
+<li>Systèmes de fichiers (dossiers et fichiers)</li>
+<li>Interfaces graphiques (conteneurs et widgets)</li>
+<li>Menus hiérarchiques</li>
+<li>Structures organisationnelles</li>
+<li>Systèmes de documents (documents, sections, paragraphes)</li>
+</ul>
+<br/>
+
+<h3>Conclusion</h3>
+Ce pattern est particulièrement utile lorsqu'il faut implémenter une structure hiérarchique où chaque élément peut être traité de manière uniforme, qu'il s'agisse d'un objet simple ou d'un groupe d'objets.
